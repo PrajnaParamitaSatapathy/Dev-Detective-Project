@@ -1,10 +1,10 @@
 # Dev-Detective-Project
 DevDetective is a responsive web application that allows users to search for GitHub profiles and displays key details like repositories, followers, company, bio, and more — all fetched live from the GitHub API.
 
-🌐 Live Demo
+## 🌐 Live Demo
 Coming Soon or [https://anubhabbiswas123.github.io/Dev-Detective-Project/]
 
-📌 Features
+## 📌 Features
 
 🔎 Search GitHub users by username
 🌙 Dark/Light theme toggle with localStorage support
@@ -13,7 +13,7 @@ Coming Soon or [https://anubhabbiswas123.github.io/Dev-Detective-Project/]
 ❌ Error handling for invalid usernames
 📱 Fully responsive layout (mobile to desktop)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5
 CSS3 (Custom properties and media queries for responsiveness)

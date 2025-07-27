@@ -16,6 +16,9 @@ Coming Soon or [https://anubhabbiswas123.github.io/Dev-Detective-Project/]
 ## 🛠️ Tech Stack
 
 HTML5
+
 CSS3 (Custom properties and media queries for responsiveness)
+
 JavaScript (ES6+)
+
 GitHub REST API

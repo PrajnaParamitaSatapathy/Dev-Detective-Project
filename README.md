@@ -7,10 +7,15 @@ Coming Soon or [https://prajnaparamitasatapathy.github.io/Dev-Detective-Project/
 ## 📌 Features
 
 🔎 Search GitHub users by username
+
 🌙 Dark/Light theme toggle with localStorage support
+
 📊 Displays user stats: repositories, followers, following
+
 🗺️ Shows user bio, company, location, Twitter, and website
+
 ❌ Error handling for invalid usernames
+
 📱 Fully responsive layout (mobile to desktop)
 
 ## 🛠️ Tech Stack
